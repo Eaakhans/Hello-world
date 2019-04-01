@@ -2,5 +2,4 @@
 Mit første github repository
 Hej Hej
 
-i,yy
-oou
+Yo Kasper her. Jeg er for vild og kan godt lide øl! 
